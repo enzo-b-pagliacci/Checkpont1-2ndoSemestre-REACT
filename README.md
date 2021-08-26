@@ -4,6 +4,7 @@
 	🚧 🚀 Em construção... 🚧
 </h4>
 
+## Contribuitors 💻
 <table>
   <tr>
          <td align="center"><a href="https://github.com/JhoctanTeixeira"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80040630?v=4" width="100px;" alt=""/><br /><sub><b>Jhoctan Teixeira</b></sub></a><br /><a href="https://github.com/JhoctanTeixeira" title="Jhoctan-Teixeira">🚀💻</a></td>
