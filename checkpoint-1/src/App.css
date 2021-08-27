@@ -5,15 +5,93 @@ body{
     margin: 0;
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+    margin-left: 1.5%;
+}
+
 .content__menu{
     display: flex;
 }
-.menu{
-    flex-direction: row;
-    display: flex;
+
+
+
+
+
+@media screen and (min-width: 1201px){
+    .menu{
+        display: flex;
+        flex-direction: row;
+        background-color: black;
+        width: 100%;
+        align-items: center;
+        list-style-type: none;
+        
+    }
+    .logoCP{
+        height: 100%;
+        width: 12%;
+       
+        
+    }
 }
-.header__main{
-    background-color: black;
-    width: 100%;
+
+@media screen and (max-width: 1200px) and (min-width: 710px){
+    .menu{
+        display: flex;
+        flex-direction: column;
+        background-color: black;
+        width: 100%;
+        align-items: center;
+        list-style-type: none;
+    }
+    .logoCP{
+        height: 100%;
+        width: 40%;
+       margin-bottom: 3%;
+        
+    }
+    li{
+        font-size: 2.2em;
+        margin-bottom: 1%;
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 709px) {
+    .menu{
+        display: flex;
+        flex-direction: column;
+        background-color: black;
+        width: 100%;
+        align-items: center;
+        
+    
+       
+    }
+    .logoCP{
+        height: 100%;
+        width: 50%;
+        margin-left: 20%;
+        margin-right: 30%;
+        margin-bottom: 3%;
+        
+       
+        
+    }
+    li{
+        margin-left: 20%;
+        margin-right: 30%;
+        margin-bottom: 2%;
+        font-size: 1.2em;
+        width: 90%;
+        
+    }
+    
     
 }
