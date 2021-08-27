@@ -1,0 +1,19 @@
+
+
+body{
+    background-color: ghostwhite;
+    margin: 0;
+}
+
+.content__menu{
+    display: flex;
+}
+.menu{
+    flex-direction: row;
+    display: flex;
+}
+.header__main{
+    background-color: black;
+    width: 100%;
+    
+}
