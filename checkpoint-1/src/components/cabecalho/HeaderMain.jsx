@@ -6,19 +6,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function HeaderMain() {
 
-   let visivel={
-      visibility: "visible" 
-   }
-
-   const [toggle, mostrarEsconder] = useState(visivel)
-
-   const acionaToggler = ()=>{
-      visivel={
-         visibility: "hidden"
-      }
-      mostrarEsconder(visivel)
-   }
-
    return (
       <>
          <div className="header__main" >
@@ -26,13 +13,13 @@ export default function HeaderMain() {
                <div className="menu" >
                   <div className="logoEToggler">
                      <div className="sectionToggler">
-                        <button onClick={()=> {acionaToggler()}} className="togglerMenu"><FontAwesomeIcon icon={faBars}  /></button>
+                         <button className="togglerMenu"><FontAwesomeIcon icon={faBars}  /></button> {/*Apenas visual */}
                      </div>
                      <div className="sectionLogo">
                         <img src={logo} alt="logo" className="logoCP"/>
                      </div>
                   </div>
-                  <ul className="menu" style={toggle}>
+                  <ul className="menu" >
                      <li><a href="#">Bussines</a></li>
                      <li><a href="#">internacional</a></li>
                      <li><a href="#">Saúde</a></li>

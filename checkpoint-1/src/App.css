@@ -28,6 +28,13 @@ button{
 
 }
 
+.visivel{
+    visibility: visible;
+}
+
+.invisivel{
+    visibility: hidden;
+}
 
 
 
