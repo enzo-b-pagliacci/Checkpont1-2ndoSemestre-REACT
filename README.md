@@ -1,5 +1,7 @@
-###   Checkpont1-2ndoSemestre
-
+##   Checkpont1 2° semestre (RWD)
+<div align="center">
+<img src="https://github.com/enzo-b-pagliacci/Checkpont1-2ndoSemestre-REACT/blob/main/checkpoint-1/src/components/img/logoCP.PNG" alt="logo do site fictício" ></img>
+</div>
 <h4 align="center"> 
 	🚧 🚀 Concluido 🚧
 </h4>
