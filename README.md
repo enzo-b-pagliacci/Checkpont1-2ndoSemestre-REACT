@@ -1,8 +1,11 @@
 ###   Checkpont1-2ndoSemestre
 
 <h4 align="center"> 
-	🚧 🚀 Em construção... 🚧
+	🚧 🚀 Concluido 🚧
 </h4>
+
+
+<p>Construir uma aplicação react utilizando um conjunto de componentes.</p>
 
 ## Contribuitors 💻
 <table>
