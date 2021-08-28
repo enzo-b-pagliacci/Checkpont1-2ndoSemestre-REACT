@@ -4,7 +4,7 @@
 	🚧 🚀 Concluido 🚧
 </h4>
 
-
+###   Objetivo:
 <p>Construir uma aplicação react utilizando um conjunto de componentes.</p>
 
 ## Contribuitors 💻
