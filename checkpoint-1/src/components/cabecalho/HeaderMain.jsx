@@ -22,7 +22,7 @@ export default function HeaderMain() {
                   <ul className="menu" >
                      <li><a href="#">Bussines</a></li>
                      <li><a href="#">internacional</a></li>
-                     <li><a href="#">Saúde</a></li>
+                     <li className="s-saude"><a href="#">Saúde</a></li>
                      <li><a href="#">Tecnologia</a></li>
                      <li><a href="#">Esporte</a></li>
                      <li><a href="#">Entreterimento</a></li>

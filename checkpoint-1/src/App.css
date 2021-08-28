@@ -3,6 +3,7 @@
 body{
     background-color: ghostwhite;
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 a{
@@ -27,9 +28,16 @@ button{
     border-radius: 10%; 
 
 }
+.s-saude{
+    font-weight: bold;
+}
 
 .site_content{
-   
+   font-family: Arial, Helvetica, sans-serif;
+}
+.logoCNN{
+    width: 200px;
+    left: 100%;
 }
 
 .visivel{
@@ -46,6 +54,7 @@ button{
 
 @media screen and (min-width: 1201px){
     .menu{
+        
         display: flex;
         flex-direction: row;
         background-color: black;
