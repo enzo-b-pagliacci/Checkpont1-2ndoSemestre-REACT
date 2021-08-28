@@ -3,7 +3,6 @@
 body{
     background-color: ghostwhite;
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 a{
@@ -35,9 +34,30 @@ button{
 .site_content{
    font-family: Arial, Helvetica, sans-serif;
 }
+.post__title{
+    color: #262626;
+    font-size:40px;
+    font-weight: 700;
+    line-height: 46px;
+
+}
+.post__excerpt{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+.row{
+    display: flex;
+    color: ghostwhite;
+    margin-left: 108px;
+    margin-right: 40px;
+}
+
 .logoCNN{
     width: 200px;
-    left: 100%;
+
 }
 
 .visivel{
