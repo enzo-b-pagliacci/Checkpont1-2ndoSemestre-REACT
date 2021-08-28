@@ -1,20 +1,22 @@
-import React, {useState} from 'react'
+import React from 'react'
 import logo from '../img/logoCP.PNG'
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
- 
+
 
 export default function HeaderMain() {
 
    return (
-     <>
+      <>
+         <div>
+            <nav>
                <div className="menu" >
                   <div className="logoEToggler">
                      <div className="sectionToggler">
-                         <button className="togglerMenu"><FontAwesomeIcon icon={faBars}  /></button> {/*Apenas visual */}
+                        <button className="togglerMenu"><FontAwesomeIcon icon={faBars} /></button> Apenas visual
                      </div>
                      <div className="sectionLogo">
-                        <img src={logo} alt="logo" className="logoCP"/>
+                        <img src={logo} alt="logo" className="logoCP" />
                      </div>
                   </div>
                   <ul className="menu" >
