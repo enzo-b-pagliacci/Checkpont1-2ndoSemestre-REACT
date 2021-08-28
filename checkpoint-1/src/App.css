@@ -56,8 +56,19 @@ button{
 }
 
 .logoCNN{
-    width: 200px;
+    float: right;
+    margin: 0;
+    position: static;
+    display: block;
+    width: 150px;
 
+}
+.p-one{
+    font-size: 18px; 
+    line-height: 28px; 
+    letter-spacing: .01em; 
+    color: #262626; 
+    font-weight:300;
 }
 
 .visivel{
