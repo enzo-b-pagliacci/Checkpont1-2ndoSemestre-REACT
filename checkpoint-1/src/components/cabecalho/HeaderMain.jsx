@@ -13,7 +13,7 @@ export default function HeaderMain() {
                <div className="menu" >
                   <div className="logoEToggler">
                      <div className="sectionToggler">
-                        <button className="togglerMenu"><FontAwesomeIcon icon={faBars} /></button> Apenas visual
+                        <button className="togglerMenu"><FontAwesomeIcon icon={faBars} /></button> {/*Apenas visual*/}
                      </div>
                      <div className="sectionLogo">
                         <img src={logo} alt="logo" className="logoCP" />
