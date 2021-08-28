@@ -7,9 +7,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 export default function HeaderMain() {
 
    return (
-      <>
-         <div className="header__main" >
-            <nav className="content__menu">
+     <>
                <div className="menu" >
                   <div className="logoEToggler">
                      <div className="sectionToggler">
