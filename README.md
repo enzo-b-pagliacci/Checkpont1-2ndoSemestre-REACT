@@ -7,6 +7,11 @@
 ###   Objetivo:
 <p>Construir uma aplicação react utilizando um conjunto de componentes.</p>
 
+#### Esperado:
+<img src="" alt="img orginial do professor"></img>
+
+#### Resultado: 
+
 ## Contribuitors 💻
 <table>
   <tr>
